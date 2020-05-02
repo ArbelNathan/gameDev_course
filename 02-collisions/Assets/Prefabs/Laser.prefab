@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: -1515559938600826020}
   - component: {fileID: 6742800857908197687}
   - component: {fileID: -8433250894850022944}
+  - component: {fileID: 1020441048356514820}
   m_Layer: 0
   m_Name: Laser
   m_TagString: Laser
@@ -131,3 +132,16 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1020441048356514820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 206225842732292031}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a626a72bc9670145adaec8b631e271c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggeringTag: BorderUp
