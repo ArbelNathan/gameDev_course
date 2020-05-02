@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/borders-invisibl.unity
+    guid: 8edb622e388fdb34e94e5e535ae78cf1
+  - enabled: 0
+    path: Assets/Scenes/3d-shield.unity
+    guid: a031f83008145b54f8dc3a8abfc50099
   - enabled: 1
-    path: Assets/Scenes/old/01-movement-control.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/borders-roundworld.unity
+    guid: 937503704c24ca44aa4becea13e6a556
   m_configObjects: {}
